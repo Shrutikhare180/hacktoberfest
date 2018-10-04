@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: ShrutiKhare
+// GITHUB: https://github.com/shrutikhare180
+
+console.log('Hello, World!');
