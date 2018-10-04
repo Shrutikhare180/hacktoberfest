@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [shruti khare](GitHub link)
+- Place: guna, Madhya Pradesh, India
+- Bio: Computer Science Student at JUET;-)
+- GitHub: [shrutikhhare180](https://github.com/Shrutikhare180)
